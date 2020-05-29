@@ -13,27 +13,27 @@ app.get("/data/", (req, res) =>
       {
         title: "Taking pills",
         description: "Take pills at 10pm",
-        date: "07-08-2020",
+        date: "2020-03-27",
       },
       {
         title: "Switch off lights",
         description: "Switch off all the lights in the house",
-        date: "05-07-2020",
+        date: "2020-07-01",
       },
       {
         title: "Dentist appointment",
         description: "Go to dentist",
-        date: "05-05-2020",
+        date: "2020-04-05",
       },
       {
         title: "Go to supermarket",
         description: "Go for shoppoing in the supermarket",
-        date: "03-03-2020",
+        date: "2020-02-20",
       },
       {
         title: "Clean house",
         description: "Clean house as guest are coming",
-        date: "31-12-2021",
+        date: "2020-07-27",
       },
     ],
   })
